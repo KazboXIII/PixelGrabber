@@ -2,13 +2,19 @@
 
 Screenshot, annotation, screen recording, color picking and floating reference tools for graphic designers, by DesignByKazbo.
 
-**Latest beta: [Pixel Grabber 0.9.0 Beta 19](https://github.com/KazboXIII/PixelGrabber/releases/tag/v0.9.0-beta.19)**
+**Latest beta: [Pixel Grabber 0.9.0 Beta 20](https://github.com/KazboXIII/PixelGrabber/releases/tag/v0.9.0-beta.20)**
 
-- [Download the Windows x64 installer](https://github.com/KazboXIII/PixelGrabber/releases/download/v0.9.0-beta.19/PixelGrabber-0.9.0-beta.19-Setup-x64.exe): recommended for installation and built-in updates.
-- [Download the portable Windows x64 ZIP](https://github.com/KazboXIII/PixelGrabber/releases/download/v0.9.0-beta.19/PixelGrabber-0.9.0-beta.19-Portable-x64.zip): extract and run PixelGrabber.exe.
-- [Feature guide](https://github.com/KazboXIII/PixelGrabber/releases/download/v0.9.0-beta.19/FEATURE-GUIDE.txt), [beta notes](https://github.com/KazboXIII/PixelGrabber/releases/download/v0.9.0-beta.19/BETA-NOTES.txt), [tester guide](https://github.com/KazboXIII/PixelGrabber/releases/download/v0.9.0-beta.19/TESTER-GUIDE.txt) and [SHA-256 checksums](https://github.com/KazboXIII/PixelGrabber/releases/download/v0.9.0-beta.19/SHA256SUMS.txt).
+- [Download the Windows x64 installer](https://github.com/KazboXIII/PixelGrabber/releases/download/v0.9.0-beta.20/PixelGrabber-0.9.0-beta.20-Setup-x64.exe): recommended for installation and built-in updates.
+- [Download the portable Windows x64 ZIP](https://github.com/KazboXIII/PixelGrabber/releases/download/v0.9.0-beta.20/PixelGrabber-0.9.0-beta.20-Portable-x64.zip): extract and run PixelGrabber.exe.
+- [Feature guide](https://github.com/KazboXIII/PixelGrabber/releases/download/v0.9.0-beta.20/FEATURE-GUIDE.txt), [beta notes](https://github.com/KazboXIII/PixelGrabber/releases/download/v0.9.0-beta.20/BETA-NOTES.txt), [tester guide](https://github.com/KazboXIII/PixelGrabber/releases/download/v0.9.0-beta.20/TESTER-GUIDE.txt) and [SHA-256 checksums](https://github.com/KazboXIII/PixelGrabber/releases/download/v0.9.0-beta.20/SHA256SUMS.txt).
 
-## What's in Beta 19
+## What's in Beta 20
+
+- **The capture toolbar stays out of your shot**: it sits below, above or beside the selection instead of covering it.
+- **Open it again to bring up the desk** when Pixel Grabber is already running.
+- **Fixed** red X boxes over the zoom controls after minimizing the window.
+
+Beta 19 added:
 
 - **Screen recording** to a looping GIF or an H.264 MP4, with pause, a timer and an optional pointer.
 - **Share links** to Imgur, Catbox or your own uploader. Off by default; every upload asks first.
